@@ -1,0 +1,73 @@
+.A{
+	text-decoration:underline;
+    color:red;
+	font-family: "Lucida Console", "Courier New", monospace;
+	}
+.B{
+	 
+	 text-decoration:underline;
+    color:blue;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+.C{
+	text-decoration:underline;
+    color:orange;
+	font-family: "Times New Roman", Times, serif;
+	}
+.E{
+   text-decoration:underline;
+   color:blue;
+   }
+.D{
+   text-decoration:underline;
+   color:skyblue;
+   }
+.red{
+    text-align:left;	
+	text-transform:capitalize;
+    font-family: "Lucida Console", "Courier New", monospace;
+	}
+.blue{
+     text-align:right;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:2em;
+	}
+.yellow{
+     text-align:center;
+    font-family: "Times New Roman", Times, serif;
+	font-size:3vh;
+	}
+.black{
+    font-family: "Brush Script MT", cursive;
+	font-size:3rem;
+    	}
+.orange{
+    font-family: Geneva, Verdana, sans-serif;
+    font-size:2vw;
+	 text-shadow:3px 3px 3px blue;
+	}	
+	h1{
+	   color:green;
+	   font-size:100px;
+	   text-align:center;
+	    background-color:yellow;
+	}  
+h3{
+    color:red;
+    font-size:5em;
+     font-family: "Courier New", Courier, monospace;	
+	text-decoration:underline;	
+  }	
+.H{  
+   font-family: "Courier New", Courier, monospace;	
+	text-decoration:underline;
+	}
+.F{
+   font-family: "Courier New", Courier, monospace;	
+	text-decoration:overline;
+	}
+.G{
+   font-family: "Courier New", Courier, monospace;	
+   text-decoration:line-through
+   }	
+	
